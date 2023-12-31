@@ -5,11 +5,6 @@ from streamlit_chat import message
 from PIL import Image
 import base64
 import io
-from IPython.display import display
-from IPython.display import Markdown
-
-import pathlib
-import textwrap
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain.memory import ConversationBufferMemory
