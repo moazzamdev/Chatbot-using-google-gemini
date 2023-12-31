@@ -1,0 +1,7 @@
+langchain
+streamlit
+streamlit-option-menu
+pillow
+langchain-google-genai
+base64
+os
