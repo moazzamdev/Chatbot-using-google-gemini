@@ -5,3 +5,4 @@ pillow
 langchain-google-genai
 base64
 os
+streamlit-option-menu
