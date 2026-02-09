@@ -2,6 +2,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 from page1 import text
 from page2 import image
+import openai
 def main():
 
     st.title("Chat With Gemini")
@@ -24,3 +25,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
